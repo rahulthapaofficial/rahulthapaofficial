@@ -15,7 +15,7 @@
 
 Hi, I'm [Rahul Thapa](https://rahulthapa.info.np/), a Full Stack Developer 🚀 from Nepal. Beside's programming, I enjoy videography, editing and traveling.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="410" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="405" />
 
 **Talking about Personal Stuffs:**
 
