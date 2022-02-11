@@ -8,6 +8,9 @@
 <a href="https://www.instagram.com/rahulthapaofficial/">
   <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.facebook.com/rahulthapamgr/">
+  <img align="left" alt="Rahul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rahulthapaofficial.rahulthapaofficial)
 
@@ -49,10 +52,16 @@ VS Code Setup         4 mins          ▒░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahulthapaofficial&show_icons=true&theme=gotham" alt="rahulthapaofficial" />
-  <img alt="Rahul Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulthapaofficial&theme=radical&langs_count=6&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulthapaofficial&show_icons=true&theme=gotham" alt="rahulthapaofficial" width="54%" />
+  <img alt="Rahul Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulthapaofficial&theme=radical&langs_count=6&layout=compact" width="45.5%" />
 </p>
+
+<details>
+  <summary>👨🏽‍💻 My Dev Card</summary>
+  <a href="https://app.daily.dev/rahulthapa">
+    <img src="https://api.daily.dev/devcards/dd3e40620ec7482f88f6aa4a96d2ef40.png?r=dtq" width="100%" alt="Rahul Thapa's Dev Card"/>
+  </a>
 </details>
