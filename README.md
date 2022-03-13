@@ -17,7 +17,11 @@
 <br />
 
 Hi, I'm [Rahul Thapa](https://rahulthapa.info.np/), a Full Stack Developer 🚀 from Nepal. Beside's programming, I enjoy videography, editing and traveling.
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mszeles" width="100%" alt="mszeles" />
+  </a>
+</p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="403" />
 
 **Talking about Personal Stuffs:**
