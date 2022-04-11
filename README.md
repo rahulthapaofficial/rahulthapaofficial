@@ -57,7 +57,6 @@ VS Code Setup         4 mins          ▒░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <summary>📈 My GitHub Stats</summary>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulthapaofficial&show_icons=true&theme=gotham" alt="rahulthapaofficial" width="54%" />
   <img alt="Rahul Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulthapaofficial&theme=radical&langs_count=6&layout=compact" width="45.5%" />
