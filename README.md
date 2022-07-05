@@ -17,11 +17,7 @@
 <br />
 
 Hi, I'm [Rahul Thapa](https://rahulthapa.info.np/), a Full Stack Developer 🚀 from Nepal. Beside's programming, I enjoy videography, editing and traveling.
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mszeles" width="100%" alt="mszeles" />
-  </a>
-</p>
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="403" />
 
 **Talking about Personal Stuffs:**
@@ -56,11 +52,22 @@ VS Code Setup         4 mins          ▒░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<hr/>
+
 <summary>📈 My GitHub Stats</summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulthapaofficial&show_icons=true&theme=gotham" alt="rahulthapaofficial" width="54%" />
-  <img alt="Rahul Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulthapaofficial&theme=radical&langs_count=6&layout=compact" width="45.5%" />
-</p>
+  <p align="center">
+    <img alt="Rahul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahulthapaofficial&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/>
+    <img alt="Rahul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulthapaofficial&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/>
+  </p>
+
+  <div>
+    <a href="#"><img alt="Rahul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rahulthapaofficial&custom_title=Rahul%20Thapa's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" />
+    </a>
+</div>
+   
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulthapaofficial&column=7&theme=onedark" />
+</div>
 
 <details>
   <summary>👨🏽‍💻 My Dev Card</summary>
