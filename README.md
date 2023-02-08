@@ -2,13 +2,13 @@
 <a href="https://twitter.com/rahulthapaoffi">
   <img align="left" alt="Rahul Thapa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rahulthapaofficial/">
+<a href="https://www.linkedin.com/in/rahulthapaofficial">
   <img align="left" alt="Rahul's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/rahulthapaofficial/">
+<a href="https://www.instagram.com/rahulthapaofficial">
   <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/rahulthapamgr/">
+<a href="https://www.facebook.com/rahulthapamgr">
   <img align="left" alt="Rahul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Rahul Thapa](https://rahulthapa.info.np/), a Full Stack Developer 🚀 from Nepal. Beside's programming, I enjoy videography, editing and traveling.
+Hi, I'm [Rahul Thapa](https://rahulthapa.com.np), a Full Stack Developer 🚀 from Nepal. Beside's programming, I enjoy videography, editing and traveling.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="403" />
 
