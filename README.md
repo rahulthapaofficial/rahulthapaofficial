@@ -23,7 +23,7 @@ Hi, I'm [Rahul Thapa](https://rahulthapa.com.np), a Full Stack Developer 🚀 fr
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning ReactJS and NodeJS; 
+- 🌱 I’m currently learning Blockchain and Web3; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@rahulthapaofficial](https://instagram.com/rahulthapaofficial)
 
